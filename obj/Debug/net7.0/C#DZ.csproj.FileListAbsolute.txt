@@ -1,0 +1,5 @@
+C:\Users\ddolga\Desktop\GB git\C#DZ\obj\Debug\net7.0\C#DZ.csproj.AssemblyReference.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\obj\Debug\net7.0\C#DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddolga\Desktop\GB git\C#DZ\obj\Debug\net7.0\C#DZ.AssemblyInfoInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\obj\Debug\net7.0\C#DZ.AssemblyInfo.cs
+C:\Users\ddolga\Desktop\GB git\C#DZ\obj\Debug\net7.0\C#DZ.csproj.CoreCompileInputs.cache
