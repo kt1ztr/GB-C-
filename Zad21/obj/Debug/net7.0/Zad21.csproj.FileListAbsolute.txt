@@ -1,0 +1,15 @@
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.csproj.AssemblyReference.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.AssemblyInfoInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.AssemblyInfo.cs
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.csproj.CoreCompileInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\bin\Debug\net7.0\Zad21.exe
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\bin\Debug\net7.0\Zad21.deps.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\bin\Debug\net7.0\Zad21.runtimeconfig.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\bin\Debug\net7.0\Zad21.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\bin\Debug\net7.0\Zad21.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\refint\Zad21.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\Zad21.genruntimeconfig.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad21\obj\Debug\net7.0\ref\Zad21.dll
