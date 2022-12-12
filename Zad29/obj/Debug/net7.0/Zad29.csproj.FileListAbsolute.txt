@@ -1,0 +1,15 @@
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\bin\Debug\net7.0\Zad29.exe
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\bin\Debug\net7.0\Zad29.deps.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\bin\Debug\net7.0\Zad29.runtimeconfig.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\bin\Debug\net7.0\Zad29.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\bin\Debug\net7.0\Zad29.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.csproj.AssemblyReference.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.AssemblyInfoInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.AssemblyInfo.cs
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.csproj.CoreCompileInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\refint\Zad29.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\Zad29.genruntimeconfig.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\Zad29\obj\Debug\net7.0\ref\Zad29.dll
