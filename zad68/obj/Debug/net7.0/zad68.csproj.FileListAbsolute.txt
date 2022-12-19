@@ -1,0 +1,15 @@
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\bin\Debug\net7.0\zad68.exe
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\bin\Debug\net7.0\zad68.deps.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\bin\Debug\net7.0\zad68.runtimeconfig.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\bin\Debug\net7.0\zad68.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\bin\Debug\net7.0\zad68.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.csproj.AssemblyReference.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.AssemblyInfoInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.AssemblyInfo.cs
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.csproj.CoreCompileInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\refint\zad68.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\zad68.genruntimeconfig.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad68\obj\Debug\net7.0\ref\zad68.dll
