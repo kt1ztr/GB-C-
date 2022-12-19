@@ -1,0 +1,15 @@
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\bin\Debug\net7.0\zad56.exe
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\bin\Debug\net7.0\zad56.deps.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\bin\Debug\net7.0\zad56.runtimeconfig.json
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\bin\Debug\net7.0\zad56.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\bin\Debug\net7.0\zad56.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.csproj.AssemblyReference.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.AssemblyInfoInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.AssemblyInfo.cs
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.csproj.CoreCompileInputs.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\refint\zad56.dll
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.pdb
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\zad56.genruntimeconfig.cache
+C:\Users\ddolga\Desktop\GB git\C#DZ\zad56\obj\Debug\net7.0\ref\zad56.dll
